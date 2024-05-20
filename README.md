@@ -10,13 +10,13 @@ The following items are attached:
 
 
 ## Packages that are needed
-*tidyverse
-*dplyr
-*reshape2
-*ranger
-*dplyr
-*ggplot2
+* tidyverse
+* dplyr
+* reshape2
+* ranger
+* dplyr
+* ggplot2
 
 ##These were my results
-*OOB prediction error : 4806113672
-*R squared (OOB) : 0.6444524
+* OOB prediction error : 4806113672
+* R squared (OOB) : 0.6444524
