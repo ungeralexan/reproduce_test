@@ -4,7 +4,6 @@ source("rf_prepare.R")
 #load the packages we need 
 #library(kernelshap) 
 library(ranger) #for the random forest model
-library(dplyr) #to do some data engineering
 library(ggplot2) # for plotting
 #library(pdp) # to visualize partial dependence plots
 
