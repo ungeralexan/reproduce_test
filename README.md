@@ -19,3 +19,8 @@ The following items are attached:
 ##These were my results
 * OOB prediction error : 4806113672
 * R squared (OOB) : 0.6444524
+
+## My tests
+I checked whether the findings are reproducible on a Windows 11 with the R version : 4.3.1 (2023-06-16). My findings were slightly different:
+* OOB prediction error : 4807997390
+* R squared (OOB) : 0.6443131
