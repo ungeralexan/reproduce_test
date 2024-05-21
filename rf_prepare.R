@@ -87,14 +87,6 @@ head(house)
 
 
 
-##############################
-#for the visualization later
-drops_3 = c('median_house_value')
-house_num =  house[ , !(names(house) %in% drops_3)] #updates housing_num to include only the columns not listed in drops_1. This leaves you with a dataset of purely numerical features without the target variable.
-
-head(house_num)
-###############################
-
 
 # Dataframe is the dataset that is gonna be used throughout the analysis
 df = house 

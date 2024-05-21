@@ -1,10 +1,7 @@
 #random forest model 
 source("rf_prepare.R")
 
-#load the packages we need 
-#library(kernelshap) 
-#library(pdp) # to visualize partial dependence plots
-
+library(ranger)
 
 
 
