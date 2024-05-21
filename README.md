@@ -15,7 +15,6 @@ The following items are attached:
 * reshape2
 * ranger
 * dplyr
-* ggplot2
 
 ##These were my results
 * OOB prediction error : 4806113672
